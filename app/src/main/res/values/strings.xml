@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KelimeOyunu</string>
+    <string name="yeni_kelime">Yeni Kelime</string>
+    <string name="kontrol_et">Kontrol Et</string>
+</resources>
